@@ -1,0 +1,9 @@
+#editors
+.idea
+
+#directories
+assets/
+lib/
+
+#specific files
+app/concat.*

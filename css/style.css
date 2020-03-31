@@ -1,0 +1,46 @@
+body {
+    background-color: #222;
+    color: #fff;
+    overflow: hidden;
+}
+ul {
+    list-style-type: none;
+}
+a {
+    color: #fff;
+}
+a:visited {
+    color: #aaa;
+}
+#container {
+}
+#header {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    text-align: center;
+}
+#game {
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+    margin-left: -7px;
+    margin-top: -7px;
+    /*border: dotted 5px #333;*/
+    /*padding: 3px;*/
+    /*width: 800px;*/
+    /*float:left;*/
+}
+#game:hover {
+    cursor: none;
+}
+#content {
+    font-family: "Inconsolata", "Fira Mono", "Source Code Pro", Monaco, Consolas, "Lucida Console", monospace;
+    /*padding-left: 825px;*/
+    margin-right: auto;
+    margin-left: auto;
+    width: 800px;
+}
+#summary {
+}
+#control {
+}

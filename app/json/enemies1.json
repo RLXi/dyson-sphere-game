@@ -1,0 +1,23 @@
+{
+    "beetle":{
+        "type": 1,
+        "name": "beetle",
+        "description": "Weak enemy",
+        "health": 1,
+        "speed": 50
+    },
+    "bat":{
+        "type": 2,
+        "name": "bat",
+        "description": "Average enemy",
+        "health": 5,
+        "speed": 100
+    },
+    "omega":{
+        "type": 3,
+        "name": "omega",
+        "description": "Strong enemy",
+        "health": 10,
+        "speed": 200
+    }
+}
